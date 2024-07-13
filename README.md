@@ -1,6 +1,9 @@
 # waitgroup
 Package waitgroup provides a wrapper around sync.WaitGroup to simplify launching goroutines and waiting for their completion.
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/goaux/waitgroup.svg)](https://pkg.go.dev/github.com/goaux/waitgroup)
+[![Go Report Card](https://goreportcard.com/badge/github.com/goaux/waitgroup)](https://goreportcard.com/report/github.com/goaux/waitgroup)
+
 ## Features
 
 - Simple wrapper around `sync.WaitGroup`
